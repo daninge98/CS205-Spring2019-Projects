@@ -26,8 +26,8 @@ Presented on 8 May 2019
 
 | Group Number | Project Title | Team | Website 
 | ------------ | --------- | --------- | -------- | 
-|1 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
-|2 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
+|1 | Real-Time Crowd Dynamics | Daniel Inge, Maddy Nakada, Raymond Lin, Stephen Slater, William Fu | [GitHub](https://your_github_repo), [Website](https://stephenslater.github.io/Crowd-Dynamics/) |
+|2 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://github.com/stephenslater/Crowd-Dynamics), [Website](https://your_web_site) |
 |3 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
 |4 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
 |5 | Your_Project_Title | Member_A, Member_B, Memver_C, Member_D | [GitHub](https://your_github_repo), [Website](https://your_web_site) |
